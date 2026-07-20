@@ -87,5 +87,3 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 B. Shreya
-
-GitHub: https://github.com/your-username
